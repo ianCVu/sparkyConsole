@@ -1,4 +1,9 @@
 {
   "manifest_version" : 3,
   "name" : "Sparky Console",
-  "description" : "Sparky Console is a console developed for users who can't code, or need bots (lol). So, I've been thinking, wouldn't a simple console w"
+  "description" : "Sparky Console is a console developed for users who can't code, or need bots (lol). So, I've been thinking, wouldn't a simple console not needing complicated coding be good?",
+  "version" : "0.09",
+  "action" : {
+    "default_icon" : "icon.png"
+  }
+}
